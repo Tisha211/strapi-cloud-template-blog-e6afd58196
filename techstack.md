@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Tisha211/strapi-cloud-template-blog-e6afd58196](https://github.com/Tisha211/strapi-cloud-template-blog-e6afd58196)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/10/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -90,7 +90,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v10.0.0|12/19/23|Tisha211 |MIT|N/A|
-|[lodash.set](https://www.npmjs.com/lodash.set)|v4.3.2|12/19/23|Tisha211 |MIT|N/A|
+|[lodash.set](https://www.npmjs.com/lodash.set)|v4.3.2|12/19/23|Tisha211 |MIT|[CVE-2020-8203](https://github.com/advisories/GHSA-p6mc-m468-83gw) (High)|
 |[mime-types](https://www.npmjs.com/mime-types)|v2.1.35|12/19/23|Tisha211 |MIT|N/A|
 
 <br/>
